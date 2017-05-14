@@ -1,0 +1,449 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.26384,44.97997 ]
+    },
+    "properties": {
+    "city":"Minneapolis",
+    "State":"MN",
+    "Count_All":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.13722,36.17497 ]
+    },
+    "properties": {
+    "city":"Las Vegas",
+    "State":"GA",
+    "Count_All":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.67621,36.58171 ]
+    },
+    "properties": {
+    "city":"Portland",
+    "State":"ME",
+    "Count_All":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.0351,32.35042 ]
+    },
+    "properties": {
+    "city":"Salem",
+    "State":"AL",
+    "Count_All":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.24272,41.80922 ]
+    },
+    "properties": {
+    "city":"Lakeville",
+    "State":"MA",
+    "Count_All":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.30968,35.04563 ]
+    },
+    "properties": {
+    "city":"Chattanooga",
+    "State":"TN",
+    "Count_All":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.92074,35.96064 ]
+    },
+    "properties": {
+    "city":"Knoxville",
+    "State":"TN",
+    "Count_All":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.85579,55.7435 ]
+    },
+    "properties": {
+    "city":"Thompson",
+    "State":"MB",
+    "Count_All":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8138,39.52963 ]
+    },
+    "properties": {
+    "city":"Reno",
+    "State":"NV",
+    "Count_All":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.80371,45.48706 ]
+    },
+    "properties": {
+    "city":"Beaverton",
+    "State":"OR",
+    "Count_All":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.50329,44.9133 ]
+    },
+    "properties": {
+    "city":"Minnetonka",
+    "State":"MN",
+    "Count_All":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.90931,33.41477 ]
+    },
+    "properties": {
+    "city":"Tempe",
+    "State":"AZ",
+    "Count_All":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.4699,43.15478 ]
+    },
+    "properties": {
+    "city":"Rochester",
+    "State":"MN",
+    "Count_All":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.10523,40.74255 ]
+    },
+    "properties": {
+    "city":"Lima",
+    "State":"OH",
+    "Count_All":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.18439,41.80065 ]
+    },
+    "properties": {
+    "city":"Torrington",
+    "State":"CT",
+    "Count_All":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.41912,37.31841 ]
+    },
+    "properties": {
+    "city":"Liberty",
+    "State":"IL",
+    "Count_All":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00859,40.21426 ]
+    },
+    "properties": {
+    "city":"Mechanicsburg",
+    "State":"PA",
+    "Count_All":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4163,43.70011 ]
+    },
+    "properties": {
+    "city":"Toronto",
+    "State":"ON",
+    "Count_All":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9847,39.73915 ]
+    },
+    "properties": {
+    "city":"Denver",
+    "State":"CO",
+    "Count_All":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.592,39.9626 ]
+    },
+    "properties": {
+    "city":"York",
+    "State":"ME",
+    "Count_All":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.13986,40.56233 ]
+    },
+    "properties": {
+    "city":"Staten Island",
+    "State":"NY",
+    "Count_All":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.65005,41.85003 ]
+    },
+    "properties": {
+    "city":"Chicago",
+    "State":"IL",
+    "Count_All":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.14742,43.04812 ]
+    },
+    "properties": {
+    "city":"Syracuse",
+    "State":"NY",
+    "Count_All":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.46871,53.55014 ]
+    },
+    "properties": {
+    "city":"Edmonton",
+    "State":"AB",
+    "Count_All":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.54529,26.6359 ]
+    },
+    "properties": {
+    "city":"Palm Springs",
+    "State":"CA",
+    "Count_All":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.45551,41.67204 ]
+    },
+    "properties": {
+    "city":"Plymouth",
+    "State":"CT",
+    "Count_All":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.98857,37.54827 ]
+    },
+    "properties": {
+    "city":"Fremont",
+    "State":"CA",
+    "Count_All":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35347,36.31344 ]
+    },
+    "properties": {
+    "city":"Johnson City",
+    "State":"NY",
+    "Count_All":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.26814,37.45172 ]
+    },
+    "properties": {
+    "city":"Jonesboro",
+    "State":"IL",
+    "Count_All":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.90703,40.64177 ]
+    },
+    "properties": {
+    "city":"Lebanon",
+    "State":"NJ",
+    "Count_All":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04798,35.66986 ]
+    },
+    "properties": {
+    "city":"Newton",
+    "State":"IA",
+    "Count_All":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.15726,32.71533 ]
+    },
+    "properties": {
+    "city":"San Diego",
+    "State":"CA",
+    "Count_All":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.45015,33.60762 ]
+    },
+    "properties": {
+    "city":"West Point",
+    "State":"IA",
+    "Count_All":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.13674,34.69804 ]
+    },
+    "properties": {
+    "city":"Lancaster",
+    "State":"CA",
+    "Count_All":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.06797,40.29867 ]
+    },
+    "properties": {
+    "city":"Delaware",
+    "State":"OH",
+    "Count_All":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.54993,33.9526 ]
+    },
+    "properties": {
+    "city":"Marietta",
+    "State":"GA",
+    "Count_All":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.84258,41.34559 ]
+    },
+    "properties": {
+    "city":"Ottawa",
+    "State":"IL",
+    "Count_All":11
+    }
+  }
+ ]
+}
